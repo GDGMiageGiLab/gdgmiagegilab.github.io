@@ -5,7 +5,7 @@
   company: "Google Developer Group"
   title: "Google Card Board"
   bio: ""
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: Audrey.png
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/108584747374575633076/"}
@@ -20,7 +20,7 @@
   company: "Google Developer Group"
   title: "Dart Developer"
   bio: ""
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: Eric.png
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/108584747374575633076/"}
@@ -36,7 +36,7 @@
   company: "GDG Miage Gi, Intelgeo"
   title: "Android Developer"
   bio: ""
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: Cyrille.png
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/108584747374575633076/"}
@@ -52,7 +52,7 @@
   company: "GDG Miage Gi"
   title: "Google Web Toolkit"
   bio: ""
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: Martial.png
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/108584747374575633076/"}
