@@ -6,29 +6,29 @@
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo-dark visible-xs"></div>
         <ul>
-            <li><a {% if page.permalink == '/' %} class="current" {% endif %} href="{{ site.baseurl }}/">Home</a>
+            <li><a {% if page.permalink == '/' %} class="current" {% endif %} href="{{ site.baseurl }}/">Accueil</a>
             </li>
-            <li><a {% if page.permalink == '/blog/' %} class="current" {% endif %} href="{{ site.baseurl }}/blog/">Blog</a>
+            <li><a {% if page.permalink == '/blog/' %} class="current" {% endif %} href="{{ site.baseurl }}/blog/">Agenda</a>
             </li>
-            <!-- <li><a href="#">Schedule</a>
-            </li> -->
             <li><a {% if page.permalink == '/speakers/' %} class="current" {% endif %} href="{{ site.baseurl }}/speakers/">Speakers</a>
             </li>
-            <li><a {% if page.permalink == '/team/' %} class="current" {% endif %} href="{{ site.baseurl }}/team/">Team</a>
+            <li><a {% if page.permalink == '/team/' %} class="current" {% endif %} href="{{ site.baseurl }}/team/">L'Equipe</a>
             </li>
-            <!-- <li><a href="#">Hackathon</a>
-            </li> -->
-            <li><a {% if page.permalink == '/logistics/' %} class="current" {% endif %} href="{{ site.baseurl }}/logistics/">Logistics</a>
+            <li><a {% if page.permalink == '/hackaton/' %} class="current" {% endif %} href="{{ site.baseurl }}/hackaton/">Hackathon</a>
+            </li>
+            <li><a {% if page.permalink == '/devfest/' %} class="current" {% endif %} href="{{ site.baseurl }}/devfest/">DevFest'14</a>
+            </li>
+            <li><a {% if page.permalink == '/logistics/' %} class="current" {% endif %} href="{{ site.baseurl }}/logistics/">S'inscrire</a>
             </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            <!-- <li><a href="#">Buy tickets</a>
-            </li> -->
-            <li><a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+            <li><a href="#">Inscrivez vous</a>
+            </li>
+            <li><a href="{{ site.c4pUrl }}" target="_blank">Devenir un speaker</a>
             </li>
         </ul>
         <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
-            <a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+            <a href="{{ site.c4pUrl }}" target="_blank">Devenir un speaker</a>
         </span>
     </nav>
 </header>

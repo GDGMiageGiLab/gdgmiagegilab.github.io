@@ -6,17 +6,17 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site settings
 title: DevFest Miage Gi 2014
-email: infos@gdgmiagegi.com
+email: infos@gdgmiagegi.ci
 description: "DevFest Miage gi est un évènement qui se deroule chaque année et à pour but de promouvoir l'utilisation des technologies Google en Côte d'Ivoire "
 baseurl: ""
 url: http://gdgmiagegilab.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "http://gdgmiagegilab.github.io"
 
 # Location block
-eventLocationName: "UFR MI, Abidjan"
-eventLocationAddress: "UFR MI, Abidjan"
+eventLocationName: "Abidjan"
+eventLocationAddress: "Abidjan"
 eventStartTime: "2014-11-28T08:00"
 eventStartTimeHumanReadable: "08:00"
 eventEndTime: "2014-11-30T20:00"

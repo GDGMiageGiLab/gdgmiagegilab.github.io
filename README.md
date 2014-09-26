@@ -79,6 +79,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG DevFest Instanbul 2014](http://devfesttr.com/)
 * [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/)
 * [GDG Bangalore Site](http://gdgbangalore.github.io/)
+* [DevFest GDG Miage Gi 2014](http://gdgmiagegilab.github.io/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
