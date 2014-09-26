@@ -3,7 +3,7 @@
   name: "Eric Zile"
   surname: "KOUASSI"
   title: "General Manager & Speaker"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: Eric.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Audrey"
   surname: "EHOUMAN"
   title: "Organizer & IT Women"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: Audrey.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -30,7 +30,7 @@
   name: "Marie Colombe"
   surname: "TRA LOU"
   title: "Organizer & IT Women"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: Colombe.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -42,7 +42,7 @@
   name: "Martial"
   surname: "N'GUESSAN"
   title: "Organizer & Speaker"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: Martial.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -55,7 +55,7 @@
   name: "Cyrille"
   surname: "GUIPIE"
   title: "Organizer & Speaker"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: Cyrille.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -69,7 +69,7 @@
   name: "Serge Innocent"
   surname: "KOMI"
   title: "Project manager"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: Serge.png
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+InnocentSergeKomi/posts"}
@@ -81,7 +81,7 @@
   name: "Emmanuel"
   surname: "KANGO"
   title: "GSA & Designer"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Emmanuel.png
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+EtserEmmanuelKango1405/posts"}
