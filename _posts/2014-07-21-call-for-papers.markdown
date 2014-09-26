@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Appel à communications"
+date:   2014-09-27 18:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+DevFest GDG Miage Gi 2014 aura lieu 06-07 Décembre à Abidjan ( les details du lieu vous serons communiqué plus tard). Si vous voulez faire partie de ce grand événement comme un speaker vous avez frappé à la bonne porte.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Présentateurs - qui devrait parler à la Conférence DevFest?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+* Développeurs (indépendants et engagés).
+* Sociétés de développement de logiciels (applications, outils, frameworks etc)
+* Institutions ayant avec Google, des activités pertinentes
+* Entreprises, les organisations et les individus utilisants les technologies Google
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+Si vous appartenez à l'un de ces groupes, vous êtes cordialement invités à soumettre une proposition de thème de conférence (ou un certain nombre de propositions). Un comité de programme indépendant évalue les propositions et sélectionne les thèmes .<br/>
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### Thèmes et sujets - ce qui ne nous attendons?
+Notre équipe a préparé un ensemble de sujets intéressants, mais si vous avez une bonne idée que vous voulez partager , n'hésitez pas à la soumettre également.
 
 ##### Android
 
@@ -56,12 +56,12 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+#### S'il vous plaît soumettre vos propositions [here](http://bit.ly/dfua-c4p).
+__Deadline__ is 31 Octobre 2014
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
+__Please note:__ Il n'y a aucune garantie que votre thème sera mis sur l'ordre du jour de la conférence!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+Le comité de gestion du conténu selectionnera les propositions les plus intéressantes et informera les auteurs sélectionnés au plus tard le 10 Novembre 2014.<br/>
 
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+#### Des questions? 
+Contactez nous [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)

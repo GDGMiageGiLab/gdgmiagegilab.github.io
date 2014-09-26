@@ -8,7 +8,7 @@
         <ul>
             <li><a {% if page.permalink == '/' %} class="current" {% endif %} href="{{ site.baseurl }}/">Accueil</a>
             </li>
-            <li><a {% if page.permalink == '/blog/' %} class="current" {% endif %} href="{{ site.baseurl }}/blog/">Agenda</a>
+            <li><a {% if page.permalink == '/agenda/' %} class="current" {% endif %} href="{{ site.baseurl }}/agenda/">Agenda</a>
             </li>
             <li><a {% if page.permalink == '/speakers/' %} class="current" {% endif %} href="{{ site.baseurl }}/speakers/">Speakers</a>
             </li>
@@ -28,8 +28,10 @@
             </li>
         </ul>
         <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
-            <a href="{{ site.c4pUrl }}" target="_blank">Devenir un speaker</a>
-            <a href="#">Inscrivez vous</a>
+            <a href="{{ site.c4pUrl }}" target="_blank">Devenir un speaker</a>            
+        </span>
+        <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
+            <a href="{{ site.c4pUrl }}" target="_blank">Inscrivez vous</a>            
         </span>
     </nav>
 </header>

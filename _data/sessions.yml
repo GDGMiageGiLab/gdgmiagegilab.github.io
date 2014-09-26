@@ -7,7 +7,7 @@
   speakers: [3]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
   id: 002
   title: "Building Cloud-powered wearable Apps"
@@ -17,7 +17,7 @@
   speakers: [4, 5]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
   id: 003
   title: "The world is your playground - go global with Google"
@@ -27,7 +27,7 @@
   speakers: [4]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
@@ -37,14 +37,5 @@
   speakers: [6]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: uk
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  track: web
-  subtype: keynote
-  speakers: [7]
-  startTimeStamp: 1382774400
-  endTimestamp: 1382796000
-  language: en
+  language: fr
+
