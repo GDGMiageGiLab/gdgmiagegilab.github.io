@@ -1,60 +1,88 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Eric Zile"
+  surname: "KOUASSI"
+  title: "General Manager & Speaker"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/+ericzileKouassi/posts"}
+    - {name: "twitter", link: "https://twitter.com/MonRicko18"}
+    - {name: "github", link: "https://github.com/ericzile"}
+    - {name: "facebook", link: "https://www.facebook.com/ericzile.kouassi"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
+  name: "Audrey"
+  surname: "EHOUMAN"
+  title: "Organizer & IT Women"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/+AudreyEhouman/posts"}
+    - {name: "twitter", link: "https://twitter.com/Only_Pink3"}
+    - {name: "facebook", link: "https://www.facebook.com/EHYAMA"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  name: "Marie Colombe"
+  surname: "TRA LOU"
+  title: "Organizer & IT Women"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/+mariapaloma/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/lexaprincee"}
+
+  id: 3
+  name: "Martial"
+  surname: "N'GUESSAN"
+  title: "Organizer & Speaker"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/+IvesMartialNGUESSAN/posts"}
+    - {name: "twitter", link: "https://twitter.com/isemartial"}
+    - {name: "facebook", link: "https://www.facebook.com/isemartial"}
+  
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
+  name: "Cyrille"
+  surname: "GUIPIE"
+  title: "Organizer & Speaker"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/103483895101346288333/posts"}
+    - {name: "twitter", link: "https://twitter.com/cyrilleguipie"}
+    - {name: "github", link: "https://github.com/cyrilleguipie"}
+    - {name: "facebook", link: "https://www.facebook.com/goualycyrille.guipie"}- 
+
+  id: 6
+  name: "Serge Innocent"
+  surname: "KOMI"
+  title: "Project manager"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+InnocentSergeKomi/posts"}
+    - {name: "twitter", link: "https://twitter.com/centonni"}
+    - {name: "github", link: "https://github.com/centonni"}
+    - {name: "facebook", link: "https://www.facebook.com/Centonni"}-
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
+  name: "Emmanuel"
+  surname: "KANGO"
+  title: "GSA & Designer"
   thumbnailUrl: ValentynShybanov.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+EtserEmmanuelKango1405/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/thewinnaking"}-
