@@ -30,7 +30,7 @@ logisticsMapCenterCoordinates: "5.343892, -3.988229"
 logisticsMapMobileCenterCoordinates: "5.343892, -3.988229"
 
 #Tweets feed
-twitterHashTag: "devfestmiagegi"
+twitterHashTag: "devfestmgi"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
