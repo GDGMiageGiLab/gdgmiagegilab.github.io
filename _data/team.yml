@@ -86,3 +86,14 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+EtserEmmanuelKango1405/posts"}
     - {name: "facebook", link: "https://www.facebook.com/thewinnaking"}
+-
+id: 8
+  name: "Marcorel"
+  surname: "ADOU"
+  title: "Responsable Logistique"
+  thumbnailUrl: Marcorel.png
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/117063341781128627736"}
+    - {name: "facebook", link: "https://www.facebook.com/leveskmarcorel.adou"}
+    - {name: "twitter", link: "https://twitter.com/levesk_Billgate"}
