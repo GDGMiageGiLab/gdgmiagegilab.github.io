@@ -5,8 +5,6 @@ permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
-
 GDG Miage Gi se targue d'être une communauté ouverte, respectueuse et inclusive. Cela signifie que le comportement saccadé n'est pas autorisé lors des réunions GDG. Parce que nous savons que ce n'est pas plaisant pour tout le monde! Voici un rappel des choses que nous ne tolérons pas: blagues ou des commentaires désobligeants sur le sexe / sexualité / race / religion / nationalité / forme du corps, image pornographique. Un comportement saccadé continue risque de se faire expulser de la réunion ou du GDG .
 
 Si quelqu'un vous ennuie, s'il vous plaît dites le aux GDG organisateurs immédiatement et ils vont prendre soin d'elle. Nous voulons maintenir la convivialité et la génialité du GDG DevFest. 
