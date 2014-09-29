@@ -17,6 +17,23 @@
 .svgimg, .svgpath {
     opacity: 0.1;
 }
+
+.svggraph-hero {
+    height: 224%;
+    width: auto;
+    opacity: 1;
+    position: absolute;
+    left: auto;
+    right: 0;
+    bottom: -83%;
+    margin: auto auto 0 auto;
+    z-index: -1;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
 .waves-element {
     position: relative;
     cursor: pointer;
