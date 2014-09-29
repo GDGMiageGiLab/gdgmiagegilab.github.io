@@ -8,6 +8,15 @@
  * https://github.com/publicis-indonesia/Waves/blob/master/LICENSE
  */
 
+.svgimg{
+    -webkit-animation: svgimgopac 11s linear alternate infinite;
+    -o-animation: svgimgopac 11s linear alternate infinite;
+    animation: svgimgopac 11s linear alternate infinite;
+}
+
+.svgimg, .svgpath {
+    opacity: 0.1;
+}
 .waves-element {
     position: relative;
     cursor: pointer;
