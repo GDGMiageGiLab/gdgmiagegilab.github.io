@@ -97,3 +97,14 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/117063341781128627736"}
     - {name: "facebook", link: "https://www.facebook.com/leveskmarcorel.adou"}
     - {name: "twitter", link: "https://twitter.com/levesk_Billgate"}
+-
+  id: 9
+  name: "Boris"
+  surname: "AGNARAMON"
+  title: "Responsable production"
+  thumbnailUrl: Boris.png
+  subTeam: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: ""}
+    - {name: "github", link: ""}
