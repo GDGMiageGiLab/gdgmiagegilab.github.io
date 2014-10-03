@@ -24,16 +24,7 @@
     {% include analytics.html %}
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script src="{{ "/js/jquery.countdown.js" | prepend: site.baseurl }}"></script>
-    <script>
-      $(function(){
-        $(".digits").countdown({
-          image: "img/digits.png",
-          format: "dd:hh:mm:ss",
-          endTime: new Date(2014, 11, 20)
-        });
-      });
-    </script>
+    <script src="{{ "/js/jquery.countdown.js" | prepend: site.baseurl }}"></script>    
     <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
     <!-- jQuery local fallback -->
     <script>
