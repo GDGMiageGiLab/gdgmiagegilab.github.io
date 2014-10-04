@@ -9,6 +9,7 @@ title: DevFest Miage Gi 2014
 email: infos@gdgmiagegi.ci
 description: "DevFest Miage gi est un évènement qui se deroule chaque année et à pour but de promouvoir l'utilisation des technologies Google en Côte d'Ivoire "
 baseurl: ""
+locale: "fr"
 url: http://gdgmiagegilab.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
