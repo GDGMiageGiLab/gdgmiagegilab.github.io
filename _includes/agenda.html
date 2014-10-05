@@ -15,33 +15,4 @@
         </div>
     </div>
 </section>
-{% if page.slug != "start-screen" %}
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-{% endif %}    
-
-{% if page.slug == "test-page" %}
-    <style>
-        .grid .row [class*="span"] {padding: 20px; text-align: right}
-    </style>
-{% endif %}
-{% if page.slug != "template-news-portal" %}
-    <link href="{{ site.baseurl }}/css/docs.min.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/js/prettify/prettify.css" rel="stylesheet">
-{% endif %}
-
-    <!-- Load JavaScript Libraries -->
-    <script src="{{ site.baseurl }}/js/jquery/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/js/jquery/jquery.widget.min.js"></script>
-    <script src="{{ site.baseurl }}/js/jquery/jquery.mousewheel.js"></script>
-
-    <script src="{{ site.baseurl }}/js/prettify/prettify.js"></script>
-
-    <!-- Metro UI CSS JavaScript plugins -->
-    <script src="{{ site.baseurl }}/js/metro.min.js"></script>
-{% if page.slug != "template-news-portal" %}
-    <!-- Local JavaScript -->
-    <script src="{{ site.baseurl }}/js/docs.js"></script>
-    <script src="{{ site.baseurl }}/js/github.info.js"></script>
-{% endif %}
-
 <!-- End Agenda Section -->
