@@ -1,4 +1,4 @@
-$(function(){
+(function($){
 	
 	var note = $('#note'),
 		ts = new Date(2015, 0, 1),
