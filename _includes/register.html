@@ -1,0 +1,27 @@
+<!-- Agenda -->
+<section id="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="row about-details">
+          
+                <div class="example-blocks">
+  Les inscriptions débuterons dans ...
+  <div id="clock"></div>
+</div>
+
+<script type="text/javascript">
+
+  $('#clock').countdown('2014/11/5').on('update.countdown', function(event) {
+    var $this = $(this).html(event.strftime(''
+      + '<span>%-w</span> semaine%!w '
+      + '<span>%-d</span> jour%!d '
+      + '<span>%H</span> hr '
+      + '<span>%M</span> min '
+      + '<span>%S</span> sec'));
+  });
+</script>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Agenda Section -->
