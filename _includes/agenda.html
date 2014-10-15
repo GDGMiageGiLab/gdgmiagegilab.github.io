@@ -3,52 +3,23 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row about-details">
-                <h5> Agenda Bientôt disponible </h5>
-                <div id="countdown" class="countdownHolder">
-                    <span class="countDays">
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                    </span>
+          
+                <div class="example-blocks">
+  Agenda Bientôt disponible ...
+  <div id="clock"></div>
+</div>
 
-                    <span class="countDiv countDiv0"></span>
+<script type="text/javascript">
 
-                    <span class="countHours">
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                    </span>
-
-                    <span class="countDiv countDiv1"></span>
-
-                    <span class="countMinutes">
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                    </span>
-
-                    <span class="countDiv countDiv2"></span>
-
-                    <span class="countSeconds">
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                        <span class="position">
-                            <span class="digit static"></span>
-                        </span>
-                    </span>
-
-                    <span class="countDiv countDiv3"></span>
-                </div>
+  $('#clock').countdown('2014/11/21').on('update.countdown', function(event) {
+    var $this = $(this).html(event.strftime(''
+      + '<span>%-w</span> semaine%!w '
+      + '<span>%-d</span> jour%!d '
+      + '<span>%H</span> hr '
+      + '<span>%M</span> min '
+      + '<span>%S</span> sec'));
+  });
+</script>
             </div>
         </div>
     </div>
