@@ -31,7 +31,7 @@ logisticsMapCenterCoordinates: "5.343892, -3.988229"
 logisticsMapMobileCenterCoordinates: "5.343892, -3.988229"
 
 #Tweets feed
-twitterHashTag: "devfestmgi, itshackademic, gsassa"
+twitterHashTag: "devfestmgi #itshackademic #gsassa"
 twitterFeed: ""
 
 # Subscribe
@@ -42,14 +42,14 @@ c4pUrl: "http://goo.gl/forms/QKIl1G0Mei"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, dart"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, dart, polymer, android wear, miage, inphb, ambassador"
+twitterAccount: "@GDG_MiageGi"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "Novembre 2014"
+eventDate: "Novembre - Décembre 2014"
 typeoutTextValues: '"Season", "Miage Gi", "Abidjan", "Bouaké", "Yamoussoukro", "Africa", "Universités",  "Agitel", "Bassam", "INPHB", "Bingerville"'
 
 # About Event Block
