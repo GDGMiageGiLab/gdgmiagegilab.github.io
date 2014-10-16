@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Appel à communications"
-date:   2014-09-27 18:00:00
+title:  "Comment devenir speaker"
+date:   2014-10-17 08:00:00
 isStaticPost: false
 ---
 DevFest GDG Miage Gi 2014 aura lieu 06-07 Décembre à Abidjan ( les details du lieu vous serons communiqué plus tard). Si vous voulez faire partie de ce grand événement comme un speaker vous avez frappé à la bonne porte.
@@ -56,7 +56,7 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### S'il vous plaît soumettre vos propositions [here](http://bit.ly/dfua-c4p).
+#### S'il vous plaît soumettre vos propositions [par içi](http://bit.ly/dfua-c4p).
 __Deadline__ is 31 Octobre 2014
 
 __Please note:__ Il n'y a aucune garantie que votre thème sera mis sur l'ordre du jour de la conférence!<br/>
@@ -64,4 +64,4 @@ __Please note:__ Il n'y a aucune garantie que votre thème sera mis sur l'ordre 
 Le comité de gestion du conténu selectionnera les propositions les plus intéressantes et informera les auteurs sélectionnés au plus tard le 10 Novembre 2014.<br/>
 
 #### Des questions? 
-Contactez nous [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Contactez nous [Organisation DevFest](mailto:miage.gdg@gmail.com)

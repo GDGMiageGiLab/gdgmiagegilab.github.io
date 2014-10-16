@@ -31,8 +31,8 @@ logisticsMapCenterCoordinates: "5.343892, -3.988229"
 logisticsMapMobileCenterCoordinates: "5.343892, -3.988229"
 
 #Tweets feed
-twitterHashTag: "devfestmgi"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "devfestmgi, itshackademic, gsassa"
+twitterFeed: ""
 
 # Subscribe
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
@@ -50,7 +50,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "Novembre 2014"
-typeoutTextValues: '"Season", "Miage Gi", "Abidjan", "Bouaké", "Côte dIvoire", "Africa", "Universités",  "Agitel", "Bassam", "INPHB", "Bingerville"'
+typeoutTextValues: '"Season", "Miage Gi", "Abidjan", "Bouaké", "Yamoussoukro", "Africa", "Universités",  "Agitel", "Bassam", "INPHB", "Bingerville"'
 
 # About Event Block
 eventName: "DevFest GDG Miage Gi"
