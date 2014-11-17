@@ -38,8 +38,8 @@ twitterFeed: ""
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
 # Documents
-c4pUrl: "http://goo.gl/forms/QKIl1G0Mei"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://www.eventbrite.fr/e/gdg-devfest-civ-2014-tickets-14426286411"
+c4sponsorsUrl: ""
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, dart, polymer, android wear, miage, inphb, ambassador"
